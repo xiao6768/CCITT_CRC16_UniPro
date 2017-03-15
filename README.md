@@ -1,0 +1,2 @@
+# CCITT_CRC16_UniPro
+CCITT, CRC16 for UniPro L2
